@@ -14,7 +14,7 @@ namespace WindowsFormsApp1
         [STAThread]
         static void Main()
         {
-            //sss
+            //sss V2
             Console.Write("sss");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
